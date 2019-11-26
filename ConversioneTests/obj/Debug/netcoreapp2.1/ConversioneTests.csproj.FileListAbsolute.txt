@@ -1,0 +1,17 @@
+/Users/lucreziasabba/Projects/ConversioneNumeriDecPeriodici/ConversioneTests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/lucreziasabba/Projects/ConversioneNumeriDecPeriodici/ConversioneTests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/lucreziasabba/Projects/ConversioneNumeriDecPeriodici/ConversioneTests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/lucreziasabba/Projects/ConversioneNumeriDecPeriodici/ConversioneTests/bin/Debug/netcoreapp2.1/ConversioneTests.deps.json
+/Users/lucreziasabba/Projects/ConversioneNumeriDecPeriodici/ConversioneTests/bin/Debug/netcoreapp2.1/ConversioneTests.runtimeconfig.json
+/Users/lucreziasabba/Projects/ConversioneNumeriDecPeriodici/ConversioneTests/bin/Debug/netcoreapp2.1/ConversioneTests.runtimeconfig.dev.json
+/Users/lucreziasabba/Projects/ConversioneNumeriDecPeriodici/ConversioneTests/bin/Debug/netcoreapp2.1/ConversioneTests.dll
+/Users/lucreziasabba/Projects/ConversioneNumeriDecPeriodici/ConversioneTests/bin/Debug/netcoreapp2.1/ConversioneTests.pdb
+/Users/lucreziasabba/Projects/ConversioneNumeriDecPeriodici/ConversioneTests/bin/Debug/netcoreapp2.1/ConversioneLibreria.dll
+/Users/lucreziasabba/Projects/ConversioneNumeriDecPeriodici/ConversioneTests/bin/Debug/netcoreapp2.1/ConversioneLibreria.pdb
+/Users/lucreziasabba/Projects/ConversioneNumeriDecPeriodici/ConversioneTests/obj/Debug/netcoreapp2.1/ConversioneTests.csprojAssemblyReference.cache
+/Users/lucreziasabba/Projects/ConversioneNumeriDecPeriodici/ConversioneTests/obj/Debug/netcoreapp2.1/ConversioneTests.csproj.CoreCompileInputs.cache
+/Users/lucreziasabba/Projects/ConversioneNumeriDecPeriodici/ConversioneTests/obj/Debug/netcoreapp2.1/ConversioneTests.AssemblyInfoInputs.cache
+/Users/lucreziasabba/Projects/ConversioneNumeriDecPeriodici/ConversioneTests/obj/Debug/netcoreapp2.1/ConversioneTests.AssemblyInfo.cs
+/Users/lucreziasabba/Projects/ConversioneNumeriDecPeriodici/ConversioneTests/obj/Debug/netcoreapp2.1/ConversioneTests.csproj.CopyComplete
+/Users/lucreziasabba/Projects/ConversioneNumeriDecPeriodici/ConversioneTests/obj/Debug/netcoreapp2.1/ConversioneTests.dll
+/Users/lucreziasabba/Projects/ConversioneNumeriDecPeriodici/ConversioneTests/obj/Debug/netcoreapp2.1/ConversioneTests.pdb

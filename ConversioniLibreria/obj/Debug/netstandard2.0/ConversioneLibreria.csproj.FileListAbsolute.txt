@@ -1,0 +1,9 @@
+/Users/lucreziasabba/Projects/ConversioneNumeriDecPeriodici/ConversioniLibreria/bin/Debug/netstandard2.0/ConversioneLibreria.deps.json
+/Users/lucreziasabba/Projects/ConversioneNumeriDecPeriodici/ConversioniLibreria/bin/Debug/netstandard2.0/ConversioneLibreria.dll
+/Users/lucreziasabba/Projects/ConversioneNumeriDecPeriodici/ConversioniLibreria/bin/Debug/netstandard2.0/ConversioneLibreria.pdb
+/Users/lucreziasabba/Projects/ConversioneNumeriDecPeriodici/ConversioniLibreria/obj/Debug/netstandard2.0/ConversioneLibreria.csprojAssemblyReference.cache
+/Users/lucreziasabba/Projects/ConversioneNumeriDecPeriodici/ConversioniLibreria/obj/Debug/netstandard2.0/ConversioneLibreria.csproj.CoreCompileInputs.cache
+/Users/lucreziasabba/Projects/ConversioneNumeriDecPeriodici/ConversioniLibreria/obj/Debug/netstandard2.0/ConversioneLibreria.AssemblyInfoInputs.cache
+/Users/lucreziasabba/Projects/ConversioneNumeriDecPeriodici/ConversioniLibreria/obj/Debug/netstandard2.0/ConversioneLibreria.AssemblyInfo.cs
+/Users/lucreziasabba/Projects/ConversioneNumeriDecPeriodici/ConversioniLibreria/obj/Debug/netstandard2.0/ConversioneLibreria.dll
+/Users/lucreziasabba/Projects/ConversioneNumeriDecPeriodici/ConversioniLibreria/obj/Debug/netstandard2.0/ConversioneLibreria.pdb
